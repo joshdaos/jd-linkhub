@@ -1,10 +1,11 @@
 * {
-    background: linear-gradient(to right, rgb(61, 213, 255) , rgb(167, 255, 234));
+    background: linear-gradient(to right, rgb(92, 151, 255) , rgb(118, 225, 255));
 }
 
 body{
     text-align: center;
     font-size: 25px;
+    color: white;
 }
 
 img {
@@ -13,4 +14,14 @@ img {
     height: 140px;
     width: 140px;
     border-radius: 50%;
+}
+
+.link-item {
+    display: flex;
+    align-items: center;
+    border: 2px solid #fff;
+    border-radius: 10px;
+    height: 60px;
+    margin: 16px;
+    width: 20%;
 }

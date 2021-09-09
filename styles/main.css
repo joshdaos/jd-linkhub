@@ -1,11 +1,12 @@
 * {
-    background: linear-gradient(to right, rgb(92, 151, 255) , rgb(118, 225, 255));
+    box-sizing: border-box;
 }
 
 body{
     text-align: center;
     font-size: 25px;
     color: white;
+    background: linear-gradient(to right, rgb(92, 151, 255) , rgb(118, 225, 255));
 }
 
 img {
@@ -18,10 +19,13 @@ img {
 
 .link-item {
     display: flex;
+    justify-content: center; 
     align-items: center;
     border: 2px solid #fff;
     border-radius: 10px;
     height: 60px;
     margin: 16px;
     width: 20%;
+    background-color: transparent;
 }
+

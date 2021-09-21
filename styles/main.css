@@ -44,4 +44,7 @@ img {
     transform: translateZ(20px);
 } */
 
-
+u {
+    color: aquamarine;
+    text-decoration-color: #fff;
+}

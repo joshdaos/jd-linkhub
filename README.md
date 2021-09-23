@@ -1,6 +1,6 @@
 # My Links to Socials an more!
 
-Click [Here](http://joshdaos.links.com/) for demo!
+Click [Here](https://joshdaos.github.io/jd-linkhub/) for demo!
 
 This project was designed to be my version of linktree.
 

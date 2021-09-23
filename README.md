@@ -1,6 +1,6 @@
 # My Links to Socials an more!
 
-Click <a href="https://joshdaos.github.io/jd-linkhub/" target="_blank">[Here](https://joshdaos.github.io/jd-linkhub/)<a> for demo!
+Click [Here](https://joshdaos.github.io/jd-linkhub/){:target="_blank" rel="noopener"} for demo!
 
 This project was designed to be my version of linktree.
 

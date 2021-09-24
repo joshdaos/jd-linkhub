@@ -4,6 +4,8 @@ Click [Here](https://joshdaos.github.io/jd-linkhub/) for a demo!
 
 This project was designed to be my version of linktree.
 
+Feel free to check it out on mobile!
+
 My links include my LinkedIn, GitHub, DEV.to, Instagram, and Twitter.
 
 #### Technologies:

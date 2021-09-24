@@ -110,22 +110,27 @@ img {
 
 #link-item-linkedin:hover {
     background-color: rgb(41, 103, 188);
+    transition: .35s
 }
 
 #link-item-github:hover {
     background-color: rgb(37, 41, 46);
+    transition: .35s
 }
 
 #link-item-devto:hover {
     background-color: rgb(9, 9, 9);
+    transition: .35s
 }
 
 #link-item-instagram:hover {
     background-color: rgb(195, 63, 128);
+    transition: .35s
 }
 
 #link-item-twitter:hover {
     background-color: rgb(70, 156, 233);
+    transition: .35s
 }
 
 /* span {

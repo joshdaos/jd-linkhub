@@ -1,4 +1,4 @@
-# My Links to Socials an more!
+# My Link Hub to my Socials and more!
 
 Click [Here](https://joshdaos.github.io/jd-linkhub/) for a demo!
 

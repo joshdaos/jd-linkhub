@@ -153,3 +153,72 @@ footer {
     margin-top: auto;
 }
 
+@media (max-width: 1000px) { 
+
+    body {
+        height: auto;
+    }
+
+    p, .bio {
+        margin: 20px;
+    }
+
+    #link-item-linkedin {
+        display: flex;
+        justify-content: center; 
+        align-items: center;
+        border: 2px solid #fff;
+        border-radius: 20px;
+        height: 60px;
+        margin: 16px;
+        width: 80%;
+    } 
+    
+    #link-item-github {
+        display: flex;
+        justify-content: center; 
+        align-items: center;
+        border: 2px solid #fff;
+        border-radius: 20px;
+        height: 60px;
+        margin: 16px;
+        width: 80%;
+        /* background-color: transparent; */
+    }
+    
+    #link-item-devto {
+        display: flex;
+        justify-content: center; 
+        align-items: center;
+        border: 2px solid #fff;
+        border-radius: 20px;
+        height: 60px;
+        margin: 16px;
+        width: 80%;
+        /* background-color: transparent; */
+    }
+    
+    #link-item-instagram {
+        display: flex;
+        justify-content: center; 
+        align-items: center;
+        border: 2px solid #fff;
+        border-radius: 20px;
+        height: 60px;
+        margin: 16px;
+        width: 80%;
+        /* background-color: transparent; */
+    }
+    
+    #link-item-twitter {
+        display: flex;
+        justify-content: center; 
+        align-items: center;
+        border: 2px solid #fff;
+        border-radius: 20px;
+        height: 60px;
+        margin: 16px;
+        width: 80%;
+        /* background-color: transparent; */
+    }
+}

@@ -153,6 +153,17 @@ footer {
     margin-top: auto;
 }
 
+li {
+    list-style-type: none;
+}
+
+/* i {
+    margin-right: 10px;
+} */
+
+
+/*======= Mobile CSS =======*/
+
 @media (max-width: 1000px) { 
 
     body {
